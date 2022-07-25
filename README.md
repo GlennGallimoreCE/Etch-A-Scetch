@@ -13,9 +13,9 @@ further and added a few of my own things:
 
 --Added a proper grid layout.
 
---Added an erase button
+--Added an erase button for individual pixels.
 
---Added a wide arrange of colors
+--Added a wide arrange of colors.
   This part was difficult, as I tried to get a color picker as the main choice for the cases in my switch, but I think cases pull functions, rgba... I'm sure there is a way
   but I've spent days on this and resorted to just making individual cases for every color, including black and white.
   
