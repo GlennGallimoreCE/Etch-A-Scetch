@@ -136,7 +136,7 @@ const active = () => {
           e.target.style.backgroundColor = 'rgba(75,75,75)';   
           e.target.style.border = '';                       
           break;
-        case 'drkgrey':                                    
+        case 'darkgrey':                                    
           e.target.style.backgroundColor = 'rgba(117,117,117)';   
           e.target.style.border = '';                       
           break;
@@ -176,7 +176,7 @@ const active = () => {
           e.target.style.border = '';                       
           break;
         case 'canyon':                                    
-          e.target.style.backgroundColor = 'rgba(255,255,255)';   
+          e.target.style.backgroundColor = 'rgba(129,162,36)';   
           e.target.style.border = '';                       
           break;
         case 'lightcoral':                                    
